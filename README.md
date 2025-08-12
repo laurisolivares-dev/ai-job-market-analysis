@@ -65,3 +65,14 @@ ai-job-market-analysis/
 ├── outputs/ # Visualizations, reports, and tables
 ├── README.md # Project documentation
 └── requirements.txt # Python dependencies (optional)
+
+## 📁 Outputs
+
+All visualizations, exported files, and final results are stored in the `outputs/` folder.
+
+Current contents:
+- `top_10_ai_skills.png`: Bar chart showing the most in-demand AI skills in 2025.
+- `top_10_skills.csv`: CSV file with skill frequencies.
+
+This folder is automatically updated as the analysis progresses and new results are generated.
+
