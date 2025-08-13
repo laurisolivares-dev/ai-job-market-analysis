@@ -65,13 +65,13 @@ ai-job-market-analysis/
 
 ├── notebooks/ # Colab notebook(s) with analysis
 
-├── scripts/ # Python scripts for ETL and scraping (optional)
+├── scripts/ # Python scripts for ETL and scraping 
 
 ├── outputs/ # Visualizations, reports, and tables
 
 ├── README.md # Project documentation
 
-└── requirements.txt # Python dependencies (optional)
+└── requirements.txt # Python dependencies
 
 
 ## 📁 Outputs
