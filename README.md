@@ -58,13 +58,21 @@ This project showcases not just technical skills, but also the power of combinin
 ## 📂 Project Structure
 
 ai-job-market-analysis/
+
 │
+
 ├── files/ # Raw dataset CSV
+
 ├── notebooks/ # Colab notebook(s) with analysis
+
 ├── scripts/ # Python scripts for ETL and scraping (optional)
+
 ├── outputs/ # Visualizations, reports, and tables
+
 ├── README.md # Project documentation
+
 └── requirements.txt # Python dependencies (optional)
+
 
 ## 📁 Outputs
 
@@ -93,3 +101,8 @@ The following table shows how my current skills align with the Top 10 most in-de
 | 9    | Git         | 2,491         | ✅ Comfortable      |
 | 10   | GCP         | 2,460         | ✅ Course completed |
 
+## 🌍 Distribution of AI Jobs by Country and Experience Level
+
+This section analyzes the number of AI job openings by country, broken down by experience level. It helps us understand which countries offer the most opportunities and whether they are targeting junior, mid-level, or senior professionals.
+
+This analysis is especially useful for identifying both entry-level and advanced roles across different regions.
