@@ -76,3 +76,20 @@ Current contents:
 
 This folder is automatically updated as the analysis progresses and new results are generated.
 
+## 💼 My Progress vs. Top AI Skills (2025)
+
+The following table shows how my current skills align with the Top 10 most in-demand AI technologies identified in this project:
+
+| Rank | Skill       | Demand Count | My Skill Level     |
+|------|-------------|---------------|---------------------|
+| 1    | Python      | 4,499         | ✅ Advanced         |
+| 2    | SQL         | 3,511         | ✅ Intermediate     |
+| 3    | TensorFlow  | 3,096         | ❌ Not started yet  |
+| 4    | Kubernetes  | 3,078         | 🟡 Learning         |
+| 5    | PyTorch     | 2,831         | ❌ Not started yet  |
+| 6    | Scala       | 2,748         | ❌ Not started yet  |
+| 7    | Linux       | 2,642         | ✅ Advanced         |
+| 8    | Java        | 2,531         | ❌ Not started yet  |
+| 9    | Git         | 2,491         | ✅ Comfortable      |
+| 10   | GCP         | 2,460         | ✅ Course completed |
+
