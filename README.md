@@ -1,108 +1,54 @@
-# AI Job Market & Salary Analysis 2025
+# 📊 AI Job Market & Salary Analysis 2025
 
-This project explores the Artificial Intelligence job market in 2025, focusing on **salary trends**, **skills demand**, **remote work distribution**, and **industry hiring patterns**.
+This project explores the 2025 job market for Artificial Intelligence professionals, focusing on salary trends, in-demand skills, remote work opportunities, and hiring patterns by country and experience level.
 
-It is my **second data project**, and unlike my first one — which was more focused on exploratory data analysis — this one is **more technical**, incorporating a complete **ETL process**, **web scraping**, and **advanced data transformations**.  
-The goal is to keep strengthening my skills as a **Data Engineer**.
-
----
+It is my second data project. Unlike the first—which was mostly exploratory—this one is more technical, implementing a full ETL pipeline, web scraping, data transformations, and visual storytelling through graphs.
 
 ## 🎯 Objectives
 
-- Practice the full **ETL process** (Extract, Transform, Load) using Python and Pandas.
-- Perform **data cleaning and preprocessing** for accurate analysis.
-- Apply **web scraping** with BeautifulSoup to enrich the dataset.
-- Create **visualizations** to communicate insights effectively.
-- Use a **cloud-oriented approach** with Google Colab and GitHub.
+- Practice the full ETL process (Extract, Transform, Load) using Python and Pandas.
+- Perform data cleaning and preprocessing to ensure accurate analysis.
+- Apply web scraping using BeautifulSoup to enrich the dataset.
+- Create visualizations to communicate insights clearly.
+- Use a cloud-oriented approach (Google Colab + GitHub).
 
+## 🔍 Project Scope
+
+- **Time coverage**: Job postings from previous years up to **April 2025**.
+- **Geographic coverage**: Listings from various countries, enabling international salary and skill comparisons.
+- **Fields analyzed**: employment type, experience level, company size, required skills, salary, etc.
+
+## 📁 Project Structure
+
+```
+├── data/
+│   └── ai_job_dataset.csv
+├── outputs/
+│   └── charts and generated files (.csv, .png)
+├── notebooks/
+│   └── AI_Job_Analysis_2025.ipynb
+├── README.md
+└── README_ES.md
+```
+
+## 💼 Why It Matters
+
+In today’s data-driven world, the ability to extract, transform, analyze, and visualize data is crucial for Data Engineers and Analysts. This project demonstrates not only technical skills, but also the ability to derive meaningful insights and communicate them effectively.
+
+> 🎯 I am a professional in the process of career reinvention, combining my previous experience with new data engineering skills to pursue opportunities in the current tech market.
+
+## 📊 Dataset
+
+- Source: [Kaggle - AI Job Market & Salary Analysis 2025](https://www.kaggle.com/datasets)
+- Format: CSV
+- Features: country, experience level, company size, employment type, required skills, salary, and more.
+
+## 🚀 Tools & Technologies
+
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Google Colab
+- Git & GitHub
+- BeautifulSoup (Web Scraping)
 ---
-
-## 📌 Project Scope
-
-This project is based on a dataset that contains AI job listings from multiple countries, with detailed information on roles, skills, salaries, company size, and more.
-
-**🗓️ Time coverage:**  
-The dataset includes job postings from previous years up to **April 2025**, making this analysis highly relevant and aligned with current AI job market trends.
-
-**🌎 Geographic coverage:**  
-Jobs are listed across multiple countries, allowing for international comparison of salaries, remote work adoption, and skill demand.
-
-This scope allows us to identify what employers are currently seeking in AI professionals and how trends vary over time, region, and role.
-
----
-
-## 💡 Why This Matters
-
-In today’s data-driven world, the ability to work with datasets like this — **cleaning, transforming, analyzing, and visualizing** — is essential for **Data Engineers** and **Data Analysts**.  
-This project showcases not just technical skills, but also the power of combining multiple tools to extract meaningful insights from raw data.
-
----
-
-## 📥 Dataset Source
-
-- [Kaggle - AI Job Market & Salary Analysis 2025](https://www.kaggle.com)
-
----
-
-## 🛠️ Technologies Used
-
-- **Python 3.10+**
-- **Pandas** for data cleaning and transformation
-- **BeautifulSoup** for web scraping
-- **Matplotlib / Seaborn** for data visualization
-- **Google Colab** for cloud-based development
-- **GitHub** for version control and collaboration
-
----
-
-## 📂 Project Structure
-
-ai-job-market-analysis/
-
-│
-
-├── files/ # Raw dataset CSV
-
-├── notebooks/ # Colab notebook(s) with analysis
-
-├── scripts/ # Python scripts for ETL and scraping 
-
-├── outputs/ # Visualizations, reports, and tables
-
-├── README.md # Project documentation
-
-└── requirements.txt # Python dependencies
-
-
-## 📁 Outputs
-
-All visualizations, exported files, and final results are stored in the `outputs/` folder.
-
-Current contents:
-- `top_10_ai_skills.png`: Bar chart showing the most in-demand AI skills in 2025.
-- `top_10_skills.csv`: CSV file with skill frequencies.
-
-This folder is automatically updated as the analysis progresses and new results are generated.
-
-## 💼 My Progress vs. Top AI Skills (2025)
-
-The following table shows how my current skills align with the Top 10 most in-demand AI technologies identified in this project:
-
-| Rank | Skill       | Demand Count | My Skill Level     |
-|------|-------------|---------------|---------------------|
-| 1    | Python      | 4,499         | ✅ Advanced         |
-| 2    | SQL         | 3,511         | ✅ Intermediate     |
-| 3    | TensorFlow  | 3,096         | ❌ Not started yet  |
-| 4    | Kubernetes  | 3,078         | 🟡 Learning         |
-| 5    | PyTorch     | 2,831         | ❌ Not started yet  |
-| 6    | Scala       | 2,748         | ❌ Not started yet  |
-| 7    | Linux       | 2,642         | ✅ Advanced         |
-| 8    | Java        | 2,531         | ❌ Not started yet  |
-| 9    | Git         | 2,491         | ✅ Comfortable      |
-| 10   | GCP         | 2,460         | ✅ Course completed |
-
-## 🌍 Distribution of AI Jobs by Country and Experience Level
-
-This section analyzes the number of AI job openings by country, broken down by experience level. It helps us understand which countries offer the most opportunities and whether they are targeting junior, mid-level, or senior professionals.
-
-This analysis is especially useful for identifying both entry-level and advanced roles across different regions.
+🧠 *Thank you for visiting this project. You can explore the complete analysis in the main notebook or browse the exported results in the outputs folder.*  
+📬 *I’m open to feedback and collaboration opportunities.*
