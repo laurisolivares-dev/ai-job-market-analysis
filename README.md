@@ -130,17 +130,17 @@ The dataset was cleaned by:
 ![Salary by Country](./outputs/ai_salary_range_by_top_5_countries.png)
 
 **Insights**:
-- US and Switzerland offer the highest AI salaries.
-- India and Germany lean toward moderate salary ranges.
-- UK shows a broader range, likely due to more diverse roles.
+- Switzerland offer the highest AI salaries.
+- Singapore, The United States and The United Kingdom  lean toward moderate salary ranges.
+- Canada shows a broader range, likely due to more diverse roles.
 
 #### Combined Distribution
 
 ![Jobs by Country and Salary](./outputs/ai_jobs_Count_by_country_and_salary.png)
 
 **Insights**:
-- US has the most jobs in the high-salary bracket.
-- India dominates job volume but most are in moderate or low ranges.
+- Switzerland has the most jobs in the high-salary bracket.
+- Singapore, The United States and The United Kingdom dominates job volume but most are in moderate or low ranges.
 - Canada offers a balanced spread of salary tiers.
 
 ---
