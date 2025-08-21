@@ -74,7 +74,8 @@ In today’s data-driven world, the ability to analyze messy, real-world dataset
 
 This project demonstrates technical proficiency and effective data storytelling — a key skill for communicating findings in business or research environments.
 
-> As a professional in transition, especially coming from Venezuela and rebuilding my career path in a new country, this project represents my commitment to adapting and thriving in the global data ecosystem.
+> As a professional in transition, especially coming from Venezuela and rebuilding my career path in a new country, this project not only represents a personal milestone in my career transition, but also demonstrates my ability to extract, transform, and communicate insights from real-world datasets — a key skill for any Data Engineer in industry settings.
+.
 
 ---
 
@@ -107,10 +108,11 @@ The dataset was cleaned by:
 ![AI Jobs by Country & Experience](./outputs/ai_jobs_by_country_exp.png)
 
 **Insights**:
-- Switzerland  shows strong demand across all experience levels.
-- The United Kingdom and The United States leads in entry-level roles, ideal for new graduates or early professionals.
-- Canada maintains a balanced distribution, offering opportunities for both entry-level and experienced professionals.
-- Singapore, though smaller in volume, shows notable demand for mid-level professionals.
+- Switzerland shows strong demand across all experience levels.
+- The United Kingdom leads in entry-level roles among top 5 countries.
+- Canada offers a balanced distribution for all experience tiers.
+- Singapore shows more openings for mid-level roles.
+- The United States stands out in senior-level demand.
 
 ---
 
@@ -130,8 +132,8 @@ The dataset was cleaned by:
 ![Salary by Country](./outputs/ai_salary_range_by_top_5_countries.png)
 
 **Insights**:
-- Switzerland offer the highest AI salaries.
-- Singapore, The United States and The United Kingdom  lean toward moderate salary ranges.
+- Switzerland offers the highest AI salaries.
+- Singapore, the United States and the United Kingdom  lean toward moderate salary ranges.
 - Canada shows a broader range, likely due to more diverse roles.
 
 #### Combined Distribution
@@ -140,7 +142,7 @@ The dataset was cleaned by:
 
 **Insights**:
 - Switzerland has the most jobs in the high-salary bracket.
-- Singapore, The United States and The United Kingdom dominates job volume but most are in moderate or low ranges.
+- Singapore, the United States and the United Kingdom dominates job volume but most are in moderate or low ranges.
 - Canada offers a balanced spread of salary tiers.
 
 ---
@@ -160,7 +162,7 @@ The dataset was cleaned by:
 | 9    | Git         | Mid    | ✅ Comfortable      |
 | 10   | GCP         | Mid    | ✅ Course completed |
 
-This comparison helps plan **my next learning steps**.
+This comparison helps plan **me plan my next learning steps**.
 
 ---
 
@@ -197,7 +199,8 @@ I look forward to applying these skills in professional environments and continu
 
 📍 **Author**: Lauris Olivares  
 🛠️ **Tools**: Python, Pandas, Seaborn, Matplotlib, Google Colab  
-📁 **Dataset**: [Kaggle - AI Job Market & Salary Analysis 2025](https://www.kaggle.com/datasets/)  
+📁 **Dataset**: [Kaggle - AI Job Market & Salary Analysis 2025](https://www.kaggle.com/datasets/)
+📓 **Notebook**: [View in Google Colab](https://colab.research.google.com/github/laurisolivares-dev/ai-job-market-analysis/blob/main/AI_Job_Market_Salary_Analysis_2025.ipynb)
 📅 **Timeframe**: April 2025  
 🌍 **Scope**: Global (USA, UK, Singapore, Switzerland, Canada, etc.)
 
