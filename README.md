@@ -163,6 +163,27 @@ The dataset was cleaned by:
 This comparison helps plan **my next learning steps**.
 
 ---
+## 🔄 Next Steps
+
+✔️ Deepen knowledge in PyTorch, TensorFlow, and Scala  
+✔️ Start building pipelines or simple ETL with real-world data  
+✔️ Use Airflow or Prefect for orchestration  
+✔️ Begin web scraping or API data ingestion  
+✔️ Explore BigQuery or AWS Athena for querying at scale
+
+---
+
+## 🖼️ Result Gallery
+
+| Chart | Description |
+|-------|-------------|
+| 📊 Top Skills | ![Top Skills](./outputs/top_10_ai_skills.png) |
+| 🌍 Job by Experience & Country | ![Country-Experience](./outputs/ai_jobs_by_country_exp.png) |
+| 💰 Salary by Country | ![Salary Country](./outputs/ai_salary_range_by_top_5_countries.png) |
+| 💼 Salary by Experience | ![Salary Exp](./outputs/ai_salary_range_by_experience.png) |
+
+---
+
 📍 **Author**: Lauris Olivares  
 🛠️ **Tools**: Python, Pandas, Seaborn, Matplotlib, Google Colab  
 📁 **Dataset**: [Kaggle - AI Job Market & Salary Analysis 2025](https://www.kaggle.com/datasets/)  
