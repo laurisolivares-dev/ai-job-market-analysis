@@ -1,6 +1,6 @@
 ## 📘 AI Job Market & Salary Analysis 2025
 
-This project explores the Artificial Intelligence job market in 2025, focusing on salary trends, skills demand, experience levels, and geographic hiring patterns. It is an Exploratory Data Analysis (EDA) project — combining data cleaning, transformation, and visual storytelling to derive actionable insights from real-world job postings.
+This project explores the Artificial Intelligence job market in 2025, focusing on salary trends, skills demand, experience levels, and geographic hiring patterns. It is an EDA project that combines data cleaning, transformation, and visual storytelling to derive actionable insights from real-world Job offers.
 
 It is my second data project. While the first introduced me to foundational EDA, this one deepens my skills in structuring an end-to-end analysis using Pandas, visual tools, and public datasets. My goal is to keep growing toward a future role as a Data Engineer.
 
@@ -35,7 +35,7 @@ It is my second data project. While the first introduced me to foundational EDA,
 
 ## 📦 Project Scope
 
-**Dataset**: Kaggle AI job postings  
+**Dataset**: Kaggle AI Job offers 
 **Coverage**: Up to April 2025  
 **Geographic**: Global (top 5 countries by demand)
 
@@ -72,7 +72,7 @@ This scope helps answer:
 
 In today’s data-driven world, the ability to analyze messy, real-world datasets — cleaning, transforming, and drawing meaningful conclusions — is essential for any aspiring Data Engineer.
 
-This project demonstrates not only technical proficiency, but also data storytelling — a key skill for communicating findings in business or research environments.
+This project demonstrates technical proficiency and effective data storytelling — a key skill for communicating findings in business or research environments.
 
 > As a professional in transition, especially coming from Venezuela and rebuilding my career path in a new country, this project represents my commitment to adapting and thriving in the global data ecosystem.
 
@@ -163,6 +163,16 @@ The dataset was cleaned by:
 This comparison helps plan **my next learning steps**.
 
 ---
+##🧾 Conclusions
+
+This project allowed me to enhance my skills in data cleaning, transformation, and visualization. I identified market trends in AI job opportunities, experience demands, and salary distribution across major countries.
+
+As a Junior Data Engineer candidate, this project reinforces my ability to handle real-world datasets and deliver actionable insights using Python and Pandas.
+
+I look forward to applying these skills in professional environments and continuing my learning path in data engineering tools and pipelines.
+
+---
+
 ## 🔄 Next Steps
 
 ✔️ Deepen knowledge in PyTorch, TensorFlow, and Scala  
