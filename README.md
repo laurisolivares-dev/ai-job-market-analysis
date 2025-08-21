@@ -163,7 +163,8 @@ The dataset was cleaned by:
 This comparison helps plan **my next learning steps**.
 
 ---
-##🧾 Conclusions
+
+## 📌 Conclusions
 
 This project allowed me to enhance my skills in data cleaning, transformation, and visualization. I identified market trends in AI job opportunities, experience demands, and salary distribution across major countries.
 
