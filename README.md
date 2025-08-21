@@ -4,11 +4,6 @@ This project explores the Artificial Intelligence job market in 2025, focusing o
 
 It is my second data project. While the first introduced me to foundational EDA, this one deepens my skills in structuring an end-to-end analysis using Pandas, visual tools, and public datasets. My goal is to keep growing toward a future role as a Data Engineer.
 
-📍 **Author**: Lauris Olivares  
-🛠️ **Tools**: Python, Pandas, Seaborn, Matplotlib, Google Colab  
-📁 **Dataset**: [Kaggle - AI Job Market & Salary Analysis 2025](https://www.kaggle.com/datasets/)  
-📅 **Timeframe**: April 2025  
-🌍 **Scope**: Global (USA, UK, Singapore, Switzerland, Canada, etc.)
 ---
 
 ## 📑 Table of Contents
@@ -112,9 +107,10 @@ The dataset was cleaned by:
 ![AI Jobs by Country & Experience](./outputs/ai_jobs_by_country_exp.png)
 
 **Insights**:
-- The US shows strong demand across all experience levels.
-- India leads in entry-level roles, ideal for new graduates or early professionals.
-- UK and Switzerland are more focused on experienced or senior candidates.
+- Switzerland  shows strong demand across all experience levels.
+- The United Kingdom and The United States leads in entry-level roles, ideal for new graduates or early professionals.
+- Canada maintains a balanced distribution, offering opportunities for both entry-level and experienced professionals.
+- Singapore, though smaller in volume, shows notable demand for mid-level professionals.
 
 ---
 
@@ -167,14 +163,11 @@ The dataset was cleaned by:
 This comparison helps plan **my next learning steps**.
 
 ---
-
-
-## 📂 Dataset Source
-
-Kaggle — [AI Job Market & Salary Analysis 2025](https://www.kaggle.com/datasets/)
-
-🔗 [View Full Analysis in Google Colab](https://...)
-🔗 [Visit Repository on GitHub](https://...)
+📍 **Author**: Lauris Olivares  
+🛠️ **Tools**: Python, Pandas, Seaborn, Matplotlib, Google Colab  
+📁 **Dataset**: [Kaggle - AI Job Market & Salary Analysis 2025](https://www.kaggle.com/datasets/)  
+📅 **Timeframe**: April 2025  
+🌍 **Scope**: Global (USA, UK, Singapore, Switzerland, Canada, etc.)
 
 🧠 *Thank you for visiting this project. You can explore the complete analysis in the main notebook or browse the exported results in the outputs folder.*  
 📬 *I’m open to feedback and collaboration opportunities.*
