@@ -74,8 +74,7 @@ In today’s data-driven world, the ability to analyze messy, real-world dataset
 
 This project demonstrates technical proficiency and effective data storytelling — a key skill for communicating findings in business or research environments.
 
-> As a professional in transition, especially coming from Venezuela and rebuilding my career path in a new country, this project not only represents a personal milestone in my career transition, but also demonstrates my ability to extract, transform, and communicate insights from real-world datasets — a key skill for any Data Engineer in industry settings.
-.
+> As a professional in transition, especially coming from Venezuela and rebuilding my career path in a new country, this project represents a personal milestone. It also showcases my ability to extract, transform, and communicate insights from real-world datasets — a key skill for any Data Engineer.
 
 ---
 
@@ -142,7 +141,7 @@ The dataset was cleaned by:
 
 **Insights**:
 - Switzerland has the most jobs in the high-salary bracket.
-- Singapore, the United States and the United Kingdom dominates job volume but most are in moderate or low ranges.
+- Singapore, the United States and the United Kingdom dominate job volume but most are in moderate or low ranges.
 - Canada offers a balanced spread of salary tiers.
 
 ---
@@ -162,7 +161,7 @@ The dataset was cleaned by:
 | 9    | Git         | Mid    | ✅ Comfortable      |
 | 10   | GCP         | Mid    | ✅ Course completed |
 
-This comparison helps plan **me plan my next learning steps**.
+This comparison helps me plan **my next learning steps**.
 
 ---
 
