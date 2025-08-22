@@ -174,6 +174,8 @@ As a Junior Data Engineer candidate, this project reinforces my ability to handl
 
 I look forward to applying these skills in professional environments and continuing my learning path in data engineering tools and pipelines.
 
+Through this project, I’ve built confidence in my data analysis and communication skills, preparing me for future roles where translating data into strategy is key. I’m now ready to take on larger-scale projects involving automation, pipelines, and real-time data ingestion.
+
 ---
 
 ## 🔄 Next Steps
